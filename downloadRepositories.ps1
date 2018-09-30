@@ -1,6 +1,6 @@
 ﻿$repositories = 
-                ("", "https://github.com/CBC-CSIT316-F18/googaloo.git", "test1"),
-                ("", "https://github.com/TyckoFranklin/Schedulize.git", "test2")
+                ("\googggggg", "https://github.com/CBC-CSIT316-F18/googaloo.git", "test1"),
+                ("\scccccccccc", "https://github.com/TyckoFranklin/Schedulize.git", "test2")
 $localPath = (Get-Item -Path ".\").FullName
 
 foreach ($repository in $repositories) {
